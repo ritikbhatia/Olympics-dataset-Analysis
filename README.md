@@ -8,6 +8,6 @@ The project includes:
 - Prediction of the medal a user can obtain by making use of 'Random Forest of Trees' on Jupyter Notebook
 - Prediction of medal tallies of various countries in the future by making use of OLS Regression on Jupyter Notebook
 
-The dataset has been cleaned as and when required.
-Exploratory Analysis of the dataset has been done with great detail: The visualization can be seen by running 'app.py' on cmd.
-Predictions can be obtained by simply running the Jupyter Notebook.
+The dataset has been cleaned as and when required.  
+Exploratory Analysis of the dataset has been done with great detail: The visualization can be seen by running 'app.py' on cmd.  
+Predictions can be obtained by simply running the Jupyter Notebook.  
